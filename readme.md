@@ -13,6 +13,6 @@
 * 确保配置工作完成后，按电脑的F5键（Debug），将会弹出一个控制台窗口，提示用户输入“本次考试的正确答案”，直接输入即可（本程序中要求选择题答案为10个，且为大写英文字母，限于A、B、C、D，后续可自行修改）。
 * 紧接着，会提示用户输入“单个选项的分值”，亦可直接输入（限于阿拉伯数字，支持小数）。
 * 接下来，会出现一个简单的提示界面，根据提示，按下相关的热键，即可进行相关的操作：按下T键，进行样本的训练；按下R键，进行识别，这时需要输入待识别图片的绝对路径；按下Q键，退出程序。
-* 如图：![](https://ws1.sinaimg.cn/large/df837310gy1fgisl80n79j20r60e8glu.jpg)
-* 本程序只是对字母识别思想的一个简单实现，并不具有强大的功能，因此，待识别的图片的像素大小必须为3610*610，而且需要裁剪整齐（后续可自行优化代码），如图所示：![](https://ws1.sinaimg.cn/large/df837310gy1fgisp5jebzj22sa0gy7wh.jpg)
-* 如有相关疑问，可点击[此处](caidecent@gmail.com)给我发邮件。
+* 如图：![](https://github.com/poorcai/CharacterRecognition/blob/master/ImageTips/window.png)
+* 本程序只是对字母识别思想的一个简单实现，并不具有强大的功能，因此，待识别的图片的像素大小必须为3610*610，而且需要裁剪整齐（后续可自行优化代码），如图所示：![](https://github.com/poorcai/CharacterRecognition/blob/master/ImageTips/exam.jpg)
+* 如有相关疑问，可点击此处给我发邮件：<caidecent@gmail.com>。
