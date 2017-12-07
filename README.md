@@ -14,5 +14,5 @@
 * 紧接着，会提示用户输入“单个选项的分值”，亦可直接输入（限于阿拉伯数字，支持小数）。
 * 接下来，会出现一个简单的提示界面，根据提示，按下相关的热键，即可进行相关的操作：按下T键，进行样本的训练；按下R键，进行识别，这时需要输入待识别图片的绝对路径；按下Q键，退出程序。
 * 如图：![](https://github.com/poorcai/CharacterRecognition/blob/master/ImageTips/window.png)
-* 本程序只是对字母识别思想的一个简单实现，并不具有强大的功能，因此，待识别的图片的像素大小必须为3610*610，而且需要裁剪整齐（后续可自行优化代码），如图所示：![](https://github.com/poorcai/CharacterRecognition/blob/master/ImageTips/exam.jpg)
-* 如有相关疑问，可点击此处给我发邮件：<realchoi123@gmail.com>
+* 本程序只是对字母识别思想的一个简单实现，并不具有强大的功能，请知悉。因此，待识别的图片的像素大小建议为3610*610，而且需要裁剪整齐（后续可自行优化代码），如图所示：![](https://github.com/poorcai/CharacterRecognition/blob/master/ImageTips/exam.jpg)
+* 如有相关疑问，可点击此处给我发邮件：<meetcds@gmail.com>
